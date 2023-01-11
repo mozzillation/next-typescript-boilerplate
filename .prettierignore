@@ -1,9 +1,11 @@
 # dependencies
 /node_modules
 
-# expo
-/.expo
-/assets
+# next.js
+/.next/
+
+# husky
+/.husky/
 
 # production
 /build
